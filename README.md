@@ -16,6 +16,7 @@ To access weather data for Okinawa, Japan, you can use the following command:
 
 ```bash
 curl wttr.in/okinawa
+```
 
 ## Objectives
 
